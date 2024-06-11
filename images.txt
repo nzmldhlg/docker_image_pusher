@@ -1,2 +1,2 @@
 alpine
-kasmweb/mysql:8.0.29
+mysql:8.0.29
